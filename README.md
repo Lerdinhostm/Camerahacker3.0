@@ -7,7 +7,7 @@ Este é um projeto para uso didático.
 1. Clone o repositório do Camerahacker 3.0 do GitHub:
 
     ```
-    git clone https://github.com/snowfelps/Camerahacker3.0
+    git clone git clone https://github.com/Lerdinhostm/Camerahacker3.0
     ```
 
 2. Navegue até o diretório do Camerahacker:
